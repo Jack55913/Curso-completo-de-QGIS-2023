@@ -11,7 +11,7 @@ Para recibir noticias sobre nuevas publicaciones y cambios, sigue [qgis-2023@goo
 ## Sobre el curso de QGIS
 
 ## ¡Inicio! 🚀
-
+Bienvenidos al curso.
 # Instalación 🔧
 
 ### Windows 💻
