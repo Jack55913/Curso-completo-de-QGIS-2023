@@ -1,5 +1,6 @@
  <img width="500" src="https://remot-technologies.com/wp-content/uploads/2019/12/qgis-logo.png">
 </p>
+
 # Curso-completo-de-QGIS-2023
 Creado oficialmente con el equipo de la Universidad Autónoma Chapingo
 
