@@ -6,34 +6,10 @@ Creado oficialmente con el equipo de la Universidad Autónoma Chapingo
 
 ## Documentación
 
-* Instalar QGIS
-* Documentación de QGIS
+* Instalar [QGIS](https://qgis.org/es/site/forusers/download.html)
+* Documentación de [QGIS](https://www.qgis.org/es/docs/index.html).
 
 Para recibir noticias sobre nuevas publicaciones y cambios, sigue [qgis-2023@googlegroups.com](https://groups.google.com/g/qgis-2023)
-
-## Sobre el curso de QGIS
-
-## ¡Inicio! 🚀
-Bienvenidos al curso.
-# Instalación 🔧
-
-### Windows 💻
-
-```
-Miyotl.exe ~Soon
-```
-
-### iMac 🍎
-
-```
-Soon
-```
-
-### Linux 🐧
-
-```
-Soon
-```
 
 ## Muchas gracias, no podríamos lograrlo sin ustedes. 🎁
 
